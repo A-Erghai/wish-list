@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>abdessabourerghai@gmail.com</sys_created_by>
+        <sys_created_on>2021-04-19 11:26:41</sys_created_on>
+        <sys_id>e09043262fab6010ec7af21df699b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_507893_wish_list_ae.x_507893_wish_list.ae_user</sys_name>
+        <sys_package display_value="Wish List" source="x_507893_wish_list">22bebaee2f6b6010ec7af21df699b6fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">22bebaee2f6b6010ec7af21df699b6fa</sys_scope>
+        <sys_security_acl display_value="x_507893_wish_list_ae">249043262fab6010ec7af21df699b672</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e09043262fab6010ec7af21df699b675</sys_update_name>
+        <sys_updated_by>abdessabourerghai@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-04-19 11:26:41</sys_updated_on>
+        <sys_user_role display_value="x_507893_wish_list.ae_user" name="x_507893_wish_list.ae_user">dc9003262fab6010ec7af21df699b6d5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">22bebaee2f6b6010ec7af21df699b6fa</application>
+        <file_path/>
+        <instance_id>0b410130dbad1094c6e711f848961990</instance_id>
+        <instance_name>tac01226</instance_name>
+        <name>sys_security_acl_role_e09043262fab6010ec7af21df699b675</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>abdessabourerghai@gmail.com</sys_created_by><sys_created_on>2021-04-19 11:26:41</sys_created_on><sys_id>e09043262fab6010ec7af21df699b675</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_507893_wish_list_ae.x_507893_wish_list.ae_user</sys_name><sys_package display_value="Wish List" source="x_507893_wish_list">22bebaee2f6b6010ec7af21df699b6fa</sys_package><sys_policy/><sys_scope display_value="Wish List">22bebaee2f6b6010ec7af21df699b6fa</sys_scope><sys_security_acl display_value="x_507893_wish_list_ae">249043262fab6010ec7af21df699b672</sys_security_acl><sys_update_name>sys_security_acl_role_e09043262fab6010ec7af21df699b675</sys_update_name><sys_updated_by>abdessabourerghai@gmail.com</sys_updated_by><sys_updated_on>2021-04-19 11:26:41</sys_updated_on><sys_user_role display_value="x_507893_wish_list.ae_user" name="x_507893_wish_list.ae_user">dc9003262fab6010ec7af21df699b6d5</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>427458473</payload_hash>
+        <record_name>x_507893_wish_list_ae.x_507893_wish_list.ae_user</record_name>
+        <reverted_from/>
+        <source>0bfff6ee2f6b6010ec7af21df699b6d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>abdessabourerghai@gmail.com</sys_created_by>
+        <sys_created_on>2021-04-19 11:26:41</sys_created_on>
+        <sys_id>6c9043262fab6010ec7af21df699b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178e9e1ee7e0000001</sys_recorded_at>
+        <sys_updated_by>abdessabourerghai@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-04-19 11:26:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a49043265bab601010e59500df452f77</update_guid>
+        <update_guid_history>a49043265bab601010e59500df452f77:427458473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_507893_wish_list_ae.x_507893_wish_list.ae_user">a5710f262fab6010ec7af21df699b609</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abdessabourerghai@gmail.com</sys_created_by>
+        <sys_created_on>2021-04-19 11:30:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>30146f3fdf50441095e13fb8ec4b6010</sys_id>
+        <sys_metadata>e09043262fab6010ec7af21df699b675</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_507893_wish_list_ae.x_507893_wish_list.ae_user</sys_name>
+        <sys_package display_value="Wish List" source="x_507893_wish_list">22bebaee2f6b6010ec7af21df699b6fa</sys_package>
+        <sys_parent display_value="">249043262fab6010ec7af21df699b672</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">22bebaee2f6b6010ec7af21df699b6fa</sys_scope>
+        <sys_scope_delete display_value="">3ccf39bc19de4910834345766877c5f1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e09043262fab6010ec7af21df699b675</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e09043262fab6010ec7af21df699b675">6c9043262fab6010ec7af21df699b677</sys_update_version>
+        <sys_updated_by>abdessabourerghai@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-04-19 11:30:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
